@@ -43,6 +43,4 @@ Os três métodos — recursivo, memoizado e iterativo — produzem resultados i
 
 ---
 
-## 📎 Execução
-```bash
-python Sprint4_Dynamic_Programming.ipynb
+
